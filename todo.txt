@@ -1,1 +1,1 @@
-paru urokov po GITS
+paru urokov po GIT
